@@ -1,0 +1,25 @@
+@media (max-width: 1290px){
+    .header__content {
+        margin-left: 170px ;
+    }
+    .follow__content{
+        margin-left: 450px ;
+    }
+}
+@media (max-width: 500px){
+    .header__content {
+        margin-left: 50% ;
+    }
+    .follow__content{
+        margin-left: 450px;
+
+    }
+}
+@media (max-width: 350px){
+    .header__content {
+        margin-left: 50% ;
+    }
+    .follow__content{
+        margin-left: 450px;
+    }
+}
